@@ -1,7 +1,7 @@
 import type { NextApiRequest, NextApiResponse } from "next";
 import { PrismaClient } from "@prisma/client";
-import { Schema } from "../../utils/schemas/schemas";
-import { verifyToken } from "../../utils/verifyToken";
+import { Schema } from "../../../schemas/schemas";
+import { verifyToken } from "../../../utils/verifyToken";
 
 const prisma = new PrismaClient();
 
