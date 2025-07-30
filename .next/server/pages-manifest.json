@@ -1,1 +1,5 @@
-{"/_app":"pages/_app.js","/_error":"pages/_error.js","/api/auth/article":"pages/api/auth/article.js","/api/auth/find":"pages/api/auth/find.js","/api/auth/register":"pages/api/auth/register.js","/api/auth/filter":"pages/api/auth/filter.js","/api/auth/login":"pages/api/auth/login.js","/api/auth/posts":"pages/api/auth/posts.js","/api/auth/reg":"pages/api/auth/reg.js","/":"pages/index.html","/_document":"pages/_document.js","/404":"pages/404.html"}
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js"
+}
